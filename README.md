@@ -6,3 +6,4 @@
 ### 电报群https://t.me/joinchat/SZs8OxuNmwVUkmx2ZktBag
 ### 群二维码也在文件中能找到
 #### 如果群二维码失效，想要入群的，请加入电报群或者email发至380767046@qq.com.
+#### 管理员：我不是瑞雪
