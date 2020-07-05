@@ -3,7 +3,7 @@
 ## 为了大家不失联，此处更新相关信息，请收藏网址不迷路！
 ## 感谢大家的支持！请大家多多为主播扩散信息，谢谢大家！
 ### 主播YouTube 频道 https://www.youtube.com/channel/UCJqAm46QSOcq38F6cQD8ZBA
-### 电报群https://t.me/joinchat/SZs8OxuNmwVUkmx2ZktBag
+### 电报群https://t.me/canyueaiguoqun
 #### 手机有可能不翻墙就刷出图片，建议翻墙打开此网页显示微信群图片
 #### 如果不能翻墙，使用电脑打开网页，先点击CanYueAiGuoQun进入项目文件夹，点击绿色的↓Code按钮，然后点击download zip按钮下载整个项目，解压缩之后就有图片了
 #### 如果群二维码失效，想要入群的，请加入电报群或者email发至380767046@qq.com.
