@@ -9,5 +9,5 @@
 #### 如果群二维码失效，想要入群的，请加入电报群或者email发至380767046@qq.com.
 #### 现有一个大群和一个小群，请尽快进入小群，否则二维码如果过期我可能不会更新。
 #### 管理员：我不是瑞雪
-![大群二维码](https://github.com/ZHAO-Fengnian/CanYueAiGuoQun/blob/master/Wechat_group.jpg)
+![大群二维码](https://github.com/ZHAO-Fengnian/CanYueAiGuoQun/blob/master/Wechat_group.png)
 ![小群二维码](https://github.com/ZHAO-Fengnian/CanYueAiGuoQun/blob/master/Group_new.png)
